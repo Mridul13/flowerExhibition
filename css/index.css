@@ -1,0 +1,52 @@
+div{
+		margin-top: 10px;
+		background-image: url("http://www.f-covers.com/cover/pastel-floral-pattern-facebook-cover-timeline-banner-for-fb.jpg");
+		text-align: center;
+		padding: 30px;
+		color: #96dad7;
+	}
+	h1{
+		display: inline-block;
+		border-radius: 15px;
+		background-color: white;
+		padding: 7px;
+	}
+	body{
+		background-color: #96dacc1a;
+	}
+	table{
+		font-family:Garamond,Monaco;
+  		line-height: 150%;
+  		font-size: 20px;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+tr{
+  opacity: 0.8;
+  text-align: center;
+}
+th{
+  background-color: #fb4d4d;
+  border: solid #F54343 ;
+  border-width: 2px 2px 4px ;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  color: #272470 ;
+  opacity: 1;
+}
+tr:hover{
+  opacity: 1;
+}
+td{
+  background-color:#F7D3D0 ;
+  color: #3C38BE ;
+  border: solid 1px #ffffff;
+  border-radius: 2px;
+}
+img{
+	margin-top: 5px;
+	align-self: center;
+	height: 100px;
+	width: 100px;
+}
